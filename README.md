@@ -20,7 +20,7 @@ Create a demo video about your app
 #### STEP 03
 Publish and submit it to the competition
 
-### For Your Efforts
+## For Your Efforts
 
 #### THE GRAND PRIZE
 The best overall app will win a custom electric 1981 DeLorean
@@ -64,3 +64,21 @@ Showcase the diverse and impressive range of applications you can build using th
 
 #### Best game app | $50,000
 Reimagine gaming with the Gemini API. Show us how you can use AI to create immersive worlds, intelligent characters, groundbreaking gameplay mechanics, and more.
+
+## Judging Criteria
+Winners will be selected by an expert panel from Google
+
+#### Remarkability
+Your submission brilliantly showcases AI in a way that is both meaningful and impactful, delivering a superior and remarkable experience.
+
+#### Creativity
+Your submission is creative, original, unexpected, and versatile. It is not just a copy of something that already exists, but rather something new and innovative.
+
+#### Usefulness
+Your submission should clearly identify the specific group of people your project aims to help. Describe the problems or difficulties these individuals face, and then explain how your solution directly tackles those challenges. Highlight the positive changes your solution brings to their lives or to society as a whole.
+
+#### Impactfulness
+Your submission demonstrates value by contributing to accessibility, environmental sustainability, or the improvement of people's lives.
+
+#### Execution
+Your submission is superbly executed, demonstrating high quality and meticulous attention to detail, and is completely free of bugs and glitches.
